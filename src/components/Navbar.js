@@ -4,10 +4,10 @@ const Navbar = () => {
     return (
         <ul className="navbar">
             <li>
-                <Link to="/">LOGO</Link>
+                <Link to="todolist-reactjs/">LOGO</Link>
             </li>
             <li>
-                <Link to="/about">About</Link>
+                <Link to="todolist-reactjs/about">About</Link>
             </li>
         </ul>
     );
